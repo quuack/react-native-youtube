@@ -2,7 +2,7 @@
   "name": "react-native-youtube",
   "version": "0.7.2",
   "description": "A <YouTube/> component for React Native.",
-  "main": "YouTube.ios.js",
+  "main": "YouTube.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,10 +15,39 @@
     "react",
     "react-native"
   ],
-  "author": "Param Aggarwal",
+  "author": {
+    "name": "Param Aggarwal"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/paramaggarwal/react-native-youtube/issues"
   },
-  "homepage": "https://github.com/paramaggarwal/react-native-youtube#readme"
+  "homepage": "https://github.com/paramaggarwal/react-native-youtube#readme",
+  "gitHead": "1c9107d6652d034016708f7916810437e3bb02da",
+  "_id": "react-native-youtube@0.7.2",
+  "_shasum": "1952b23e2040333408943daee5f2a97a9e6e773e",
+  "_from": "react-native-youtube@>=0.7.2 <0.8.0",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "theo-mathieu",
+    "email": "theo.mathieu@in-progress.io"
+  },
+  "dist": {
+    "shasum": "1952b23e2040333408943daee5f2a97a9e6e773e",
+    "tarball": "https://registry.npmjs.org/react-native-youtube/-/react-native-youtube-0.7.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "paramaggarwal",
+      "email": "paramaggarwal@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-youtube-0.7.2.tgz_1463409411563_0.24294265639036894"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-youtube/-/react-native-youtube-0.7.2.tgz",
+  "readme": "ERROR: No README data found!"
 }

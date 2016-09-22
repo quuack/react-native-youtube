@@ -1,16 +1,24 @@
-/**
- * @providesModule YouTube
- * @flow
- */
+import React, {
+  Component,
+} from 'react';
+import {
+  Platform,
+  StyleSheet,
+  View
+} from 'react-native';
 
-'use strict';
+class Youtube extends React.Component {
 
-var warning = require('warning');
+  constructor (props) {
+    super(props);
+  }
 
-var YouTube = {
-  test: function() {
-    warning("Not yet implemented for Android.");
+  render () {
+    return(
+      <View style={{height: 100}}>
+      </View>
+    );
   }
 };
 
-module.exports = YouTube;
+module.exports = Youtube;
